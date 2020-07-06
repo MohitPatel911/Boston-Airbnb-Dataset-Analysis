@@ -647,7 +647,7 @@ print ("Linear Regression: " + str(linear_reg_error))
 ```
 Linear Regression: 34.7018093101
 
-This is a small recommendation system which I built using linear Regression.It is not accurate and gives an error of $34.70 in price.The future scope of this project could be using different algorithm to predict accurate pricesof test data.
+This is a small recommendation system which I built using linear Regression.It is not accurate and gives an error of $34.70 in price.The future scope of this project could be using different algorithm to predict accurate prices of test data.
 
 ## Addtional Instructions to Run the code
 
